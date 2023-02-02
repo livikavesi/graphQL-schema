@@ -5,7 +5,7 @@
     { "id": "41", "firstName": "Nick", "age": 20, "companyId": "2" }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "discription": "iphone"},
-    { "id": "2", "name": "Google", "discription": "search"}
+    { "id": "1", "name": "Apple", "description": "iphone"},
+    { "id": "2", "name": "Google", "description": "search"}
   ]
 }
